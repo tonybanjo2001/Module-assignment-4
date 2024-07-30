@@ -30,6 +30,8 @@ Follow these steps to complete the assignment:
 4. Create visualizations to represent the most watched genres and the ratings distribution using Python libraries (Seaborn, Pyplot, and Matplotlib).
 5. Integrate one of the charts or visualizations into R.
 
+##   Googlecolab link: https://colab.research.google.com/drive/1AVGPgGMqi_8HfiqkeywmECEXV4aD6g_7?usp=sharing
+
 ## Importing Libraries
 
 ```python
@@ -44,9 +46,7 @@ import statsmodels.api as sm
    Google colab: Python
    Google colab: R Environment
 
-https://drive.google.com/file/d/1LsBO95_9lD1_ry7QFeQ156k0Wsb6zNJ8/view?usp=sharing
-
-## Files
+##  Files
 -  https://drive.google.com/file/d/1LsBO95_9lD1_ry7QFeQ156k0Wsb6zNJ8/view?usp=sharing
 -  Netflix_analysis.ipynb: google colab with Python code for data cleaning, exploration, and visualization.
 -  visualizations/
